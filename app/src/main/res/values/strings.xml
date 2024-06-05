@@ -9,4 +9,7 @@
     <string name="confirm_password">Confirm Password</string>
     <string name="register">Register</string>
     <string name="already_have_an_account_login">Already Have an Account? Login</string>
+    <string name="password_and_confirmation_do_not_match">Password and confirmation do not match</string>
+    <string name="password_confirmation_is_required">Password confirmation is required</string>
+    <string name="password_is_required">Password is required</string>
 </resources>
