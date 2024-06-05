@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun validateRegistration() {
-        clearErrors()
+       clearErrors()
         var formError = false
 
         val firstName = binding.etFirstName.text.toString()
@@ -82,7 +82,7 @@ class MainActivity : AppCompatActivity() {
             // bcs we are not supposed to hard code the string
         }
         if (!formError) {
-            //
+            // proceed to register, this could be done if our register button was connected to an Activity(web page in Kotlin)
         }
     }
 
